@@ -1,0 +1,13 @@
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.csprojAssemblyReference.cache
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.AssemblyInfoInputs.cache
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.AssemblyInfo.cs
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.csproj.CoreCompileInputs.cache
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.exe
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.deps.json
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.runtimeconfig.json
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.runtimeconfig.dev.json
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.dll
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\bin\Debug\netcoreapp3.1\Project powered number.pdb
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.dll
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.pdb
+C:\Users\g1mboo\source\repos\Project powered number\Project powered number\obj\Debug\netcoreapp3.1\Project powered number.genruntimeconfig.cache
